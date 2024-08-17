@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --font-roboto: "Roboto Slab", serif;
+    --font-raleway: "Raleway", sans-serif;
+  }
+  
+  body {
+    font-family: var(--font-roboto);
+    background-color: #212426;
+  }
+  
+  .app {
+    padding: 5rem;
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .card {
+    background-color: blue;
+    height: auto; 
+    width: 60%; 
+    padding: 0; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    border-radius: 10px; 
+  }

@@ -1,0 +1,11 @@
+{
+  "homepage": "https://gitname.github.io/react-gh-pages",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
+

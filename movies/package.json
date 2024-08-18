@@ -1,7 +1,7 @@
 {
   "name": "movies",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://ttgttg.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@react-spring/web": "^9.7.4",
@@ -40,4 +40,5 @@
       "last 1 safari version"
     ]
   }
+  
 }

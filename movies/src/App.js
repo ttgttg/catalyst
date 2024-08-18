@@ -10,7 +10,7 @@ const App = () => {
     const [lovedMovies, setLovedMovies] = useState([]);
     const [dislikedMovies, setDislikedMovies] = useState([]);
 
-    const randomTitles = ['Batman', 'Superman', 'Spiderman', 'Ironman', 'Avengers', 'Titanic', 'Deadpool'];
+    const randomTitles = ['Batman', 'Superman', 'Ironman', 'Avengers', 'Titanic', 'Deadpool', 'Joker', 'Antman','Barbie', 'Inception','Interstellar','Parasite'];
 
     const generateRandomMovie = async () => {
         const randomTitle = randomTitles[Math.floor(Math.random() * randomTitles.length)];
@@ -42,7 +42,7 @@ const App = () => {
     return (
         <div className='app'>
             <div className='card'>
-                <h1>Movie App</h1>
+                <h1>MatchFlix</h1>
 
                 <div className='container'>
                     {randomMovie ? (

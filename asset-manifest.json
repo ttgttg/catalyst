@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9c5136d1.css",
+    "main.js": "/react-gh-pages/static/js/main.321e88b2.js",
+    "static/media/AkiraExpanded-SuperBold.woff": "/react-gh-pages/static/media/AkiraExpanded-SuperBold.06ddc469a0d4175470af.woff",
+    "static/media/AkiraExpanded-SuperBold.woff2": "/react-gh-pages/static/media/AkiraExpanded-SuperBold.f37e20ba3c84becbfde3.woff2",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9c5136d1.css.map": "/react-gh-pages/static/css/main.9c5136d1.css.map",
+    "main.321e88b2.js.map": "/react-gh-pages/static/js/main.321e88b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5136d1.css",
+    "static/js/main.321e88b2.js"
+  ]
+}
